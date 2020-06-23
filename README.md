@@ -1,0 +1,2 @@
+# docker-vertica
+docker-vertica
